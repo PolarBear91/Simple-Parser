@@ -1,0 +1,13 @@
+E:\MyGitProject\Simple Parser\Simple-Parser\bin\Debug\netcoreapp3.1\SimpleParser.exe
+E:\MyGitProject\Simple Parser\Simple-Parser\bin\Debug\netcoreapp3.1\SimpleParser.deps.json
+E:\MyGitProject\Simple Parser\Simple-Parser\bin\Debug\netcoreapp3.1\SimpleParser.runtimeconfig.json
+E:\MyGitProject\Simple Parser\Simple-Parser\bin\Debug\netcoreapp3.1\SimpleParser.runtimeconfig.dev.json
+E:\MyGitProject\Simple Parser\Simple-Parser\bin\Debug\netcoreapp3.1\SimpleParser.dll
+E:\MyGitProject\Simple Parser\Simple-Parser\bin\Debug\netcoreapp3.1\SimpleParser.pdb
+E:\MyGitProject\Simple Parser\Simple-Parser\obj\Debug\netcoreapp3.1\SimpleParser.csprojAssemblyReference.cache
+E:\MyGitProject\Simple Parser\Simple-Parser\obj\Debug\netcoreapp3.1\SimpleParser.AssemblyInfoInputs.cache
+E:\MyGitProject\Simple Parser\Simple-Parser\obj\Debug\netcoreapp3.1\SimpleParser.AssemblyInfo.cs
+E:\MyGitProject\Simple Parser\Simple-Parser\obj\Debug\netcoreapp3.1\SimpleParser.csproj.CoreCompileInputs.cache
+E:\MyGitProject\Simple Parser\Simple-Parser\obj\Debug\netcoreapp3.1\SimpleParser.dll
+E:\MyGitProject\Simple Parser\Simple-Parser\obj\Debug\netcoreapp3.1\SimpleParser.pdb
+E:\MyGitProject\Simple Parser\Simple-Parser\obj\Debug\netcoreapp3.1\SimpleParser.genruntimeconfig.cache
